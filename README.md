@@ -5,4 +5,4 @@
  * 커뮤니케이션, 문서, 사용자를 연구하는 것에 관심이 많습니다.
 
 
-[![Nirvana's GitHub stats](https://github-readme-stats.vercel.app/api?username=initNirvana)](https://github.com/anuraghazra/github-readme-stats)
+[![Nirvana's GitHub stats](https://github-readme-stats.vercel.app/api?username=initNirvana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
